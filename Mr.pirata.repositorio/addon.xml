@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="Mr.pirata.repositorio" name="Mr.pirata.repositorio" version="0.0.2" provider-name="amorim2010">
+	<extension point="xbmc.addon.Mr.pirata.repositorio" name="Demonstration Add-on Mr.pirata.repositorio">
+		<info compressed="false">http://raw.github.com/amorim2010/amorim2010-Mr.pirata.repositorio/master/addons.xml</info>
+		<checksum>http://raw.github.com/amorim2010/amorim2010-Mr.pirata.repositorio/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/amorim2010/amorim2010-Mr.pirata.repositorio/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Series TV</summary>
+		<description>Mr.pirata</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
